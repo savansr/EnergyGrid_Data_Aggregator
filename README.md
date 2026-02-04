@@ -7,10 +7,19 @@
    - npm
    - Ensure the EnergyGrid Mock API is running on `http://localhost:3000`
 
-2. **Install dependencies**
+2. **Clone the repository **
+    ``` bash
+     git clone https://github.com/savansr/EnergyGrid_Data_Aggregator 
+
+3. **Move to src **
+    ``` bash
+     cd src
+
+4. **Install dependencies**
    ```bash
    npm install
-3. **Start the Application**
+   
+5. **Start the Application**
    ``` bash
    npm start
 
